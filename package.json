@@ -57,29 +57,5 @@
     "sass": "^1.53.0",
     "stylelint": "^14.9.1",
     "typescript": "^4.6.3"
-  },
-  "metadata": {
-    "stack": [
-      "js",
-      "nextjs",
-      "react",
-      "sass",
-      "ts"
-    ],
-    "thumbnailUrl": "https://raw.githubusercontent.com/riandeoliveira/medicenter/refs/heads/main/.github/assets/thumbnail.png",
-    "repositoryUrl": "https://github.com/riandeoliveira/medicenter",
-    "projectUrl": "https://medicenter-beryl.vercel.app/",
-    "isPrivate": false,
-    "isNew": false,
-    "info": {
-      "enUs": {
-        "fullName": "MediCenter",
-        "description": "The homepage of a responsive and accessible website for the fictional MediCenter medical clinic. It includes an adaptable design for tablets and smartphones."
-      },
-      "ptBr": {
-        "fullName": "MediCenter",
-        "description": "Página inicial de um site responsivo e acessível para a clínica médica fictícia MediCenter. Inclui um design adaptável para tablets e smartphones."
-      }
-    }
   }
 }
