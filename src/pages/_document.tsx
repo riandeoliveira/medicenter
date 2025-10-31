@@ -6,11 +6,8 @@ const Document = (): JSX.Element => {
       <Head>
         <meta
           name="description"
-          content="Página inicial de um website reponsivo e acessível para uma clínica médica fictícia."
+          content="Página inicial de um site responsivo e acessível para a clínica médica fictícia MediCenter. Inclui um design adaptável para tablets e smartphones."
         />
-        <meta name="keywords" content="React, Next.js, TypeScript" />
-        <meta name="author" content="Rian Oliveira" />
-        <meta name="theme-color" content="#ffffff" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>

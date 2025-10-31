@@ -1,12 +1,7 @@
 {
   "name": "medicenter",
-  "description": "Página inicial de um website reponsivo e acessível para uma clínica médica fictícia.",
   "version": "2.0.3",
-  "license": "MIT",
-  "type": "module",
   "private": true,
-  "homepage": "https://medicenter-beryl.vercel.app/",
-  "main": "src/pages/_app.tsx",
   "author": {
     "name": "Rian Oliveira",
     "email": "riandiasdeoliveira2001@gmail.com"
